@@ -10,7 +10,7 @@
     up9: "https://pay.finalizar.website/xQBPZvRM5EaZmVq", // APP - 11,99
     up10:"https://pay.finalizar.website/DPXw3Xe7MpkZzmp", // Taxa de Abertura TAC - 16,92
     up11:"https://pay.finalizar.website/DPXw3Xe7M2kZzmp",// Taxa de Consultoria Financeira - 19,53
-    up12:"https://pay.finalizar.website/zj6aGnAn1ydZwlK"'// prioridade de saque  - 56,90
+    up12:"https://pay.finalizar.website/zj6aGnAn1ydZwlK",// prioridade de saque  - 56,90
     
 
 };
